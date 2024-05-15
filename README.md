@@ -5,3 +5,8 @@ HTML
 CSS
 PYTHON FLASK
 JavaScript
+# MODULES
+Admin: Adds staffs, dietitians, list of hospitals, baby sitters and home nurses.
+Staff: Manages medicine stock.
+Dietitian: Deals with diet plans for users.
+Users: Can make use of this website where they can even purchase medicines.
