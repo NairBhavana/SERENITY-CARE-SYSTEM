@@ -1,15 +1,27 @@
-# SERENITY-CARE-SYSTEM
-The Serenity Care System offers a seamless healthcare management experience with its array of features. Users can effortlessly locate hospitals, connect with home nurses, and find trusted babysitters through the platform. Additionally, an integrated shopping cart simplifies the procurement of essential medications. What sets Serenity apart is its direct chat option with experienced dietitians, providing personalized dietary advice tailored to individual needs. This comprehensive approach ensures that users can easily navigate the healthcare landscape and access the resources they need for optimal well-being.
-# TECHNOLOGY
+
+# SerenityCareSystem
+Serenity Care System is a user-friendly website offering a range of healthcare services. Users can easily find home nurses, babysitters, and nearby hospitals. The platform facilitates direct communication with dieticians for personalized dietary advice and supports online shopping for medicines. In essence, it provides quick access to essential healthcare resources.
+![image](https://github.com/BetsyEldhose/SerenityCareSystem/assets/169824216/7edf3d76-7dff-4033-8e8d-82d825e462fe)
+# Technology
 HTML
+
 CSS
-PYTHON FLASK
-JavaScript
-# MODULES
-Admin: Adds staffs, dietitians, list of hospitals, baby sitters and home nurses.
 
-Staff: Manages medicine stock.
+Python Flask
 
-Dietitian: Deals with diet plans for users.
+Javascript
+# Features
+Admin module-Manage staff,dietician and hospital listand monitor user data.
 
-Users: Can make use of this website where they can even purchase medicines.
+Staff module-Manage medicine stock.
+
+Dietician module-Provide diet plans to patients.
+
+User module-Can purchase medicine from shopping cart,search for hospitals,get diet plans from dieticians and can select caretakers or babysitters.
+# Screenshots
+![login](https://github.com/BetsyEldhose/SerenityCareSystem/assets/169824216/c7798eeb-5fee-4cc2-932b-c836194bed93)
+![admin caredata](https://github.com/BetsyEldhose/SerenityCareSystem/assets/169824216/f824899b-2c20-4e6b-8605-e066109e25a2)
+![userhosp](https://github.com/BetsyEldhose/SerenityCareSystem/assets/169824216/95f2faa5-cf1d-46f9-ab70-52a81a7b0b98)
+![hos data](https://github.com/BetsyEldhose/SerenityCareSystem/assets/169824216/bda72dbd-9b6b-4a9f-8290-a3d627105035)
+![admin hos](https://github.com/BetsyEldhose/SerenityCareSystem/assets/169824216/a10592d0-c7b9-4eb3-bd67-e4ae31f11f0c)
+
